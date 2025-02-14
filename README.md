@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @david-hankinson
 
-- 👀 I’m interested in Kubernetes, Cloud and Automation technologies
-- 💞️ I’m looking to collaborate on projects that match my areas of interest
-- 📫 You can reach me best via [Linkedin](https://www.linkedin.com/in/david-mh-6a6a38199/) !! I look forwards to talking with you
+- 👀 I am currently building cloud based infrastructure as code projects
+- 💞️ I enjoy collaborating on projects
+- 📫 My linkedin is here: [Linkedin](https://www.linkedin.com/in/david-mh-6a6a38199/)
 - 📍 Location: Canada
 
 <!---
