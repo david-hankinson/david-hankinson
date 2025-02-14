@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @david-hankinson
 
 - 👀 I am currently building cloud based infrastructure as code projects
-- 💞️ I enjoy collaborating on projects
-- 📫 My linkedin is here: [Linkedin](https://www.linkedin.com/in/david-mh-6a6a38199/)
+  
+-  I enjoy collaborating on projects
+  
+-  My linkedin is here: [Linkedin](https://www.linkedin.com/in/david-mh-6a6a38199/)
+  
 - 📍 Location: Canada
 
 <!---
