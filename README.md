@@ -4,7 +4,7 @@
   
 - I enjoy collaborating on projects
   
-- My [Linkedin](https://www.linkedin.com/in/david-mh-6a6a38199/)
+- [Linkedin](https://www.linkedin.com/in/david-mh-6a6a38199/) profile
   
 - 📍 Location: Canada
 
