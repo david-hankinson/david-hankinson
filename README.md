@@ -6,7 +6,7 @@
   
 - [Linkedin](https://www.linkedin.com/in/david-mh-6a6a38199/) profile
   
-- 📍 Location: Canada
+- 📍 Location: United Kingdom
 
 <!---
 david-hankinson/david-hankinson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
